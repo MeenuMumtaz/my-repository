@@ -7,6 +7,8 @@ ownCloud provides you the ability to access and share your files and folders fro
 
 ## Prerequisites ##
 
+You must fulfill the following software and hardware requirements before you install ownCloud in your environment.
+
 - Memory 
   - 128 MB RAM memory. For better performance, 512 MB RAM memory is recommended. 
 - Database
