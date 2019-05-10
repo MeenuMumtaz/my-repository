@@ -227,8 +227,8 @@ To configure the desktop client, complete the following steps.
 2. In the **ownCloud Connection Wizard** page, in the **Server Name** box, type the server address.
 3. Type your username and password and click **Next**.
 4. Select one of the options.
-   - **Sync everything from the server**. This syncs everything from the server.
-   - **Choose what to sync**.  This syncs only the desired files.
+  - **Sync everything from the server**. This syncs everything from the server.
+  - **Choose what to sync**.  This syncs only the desired files.
 5. Type the path of the local folder.
 6. Click **Connect** and **Finish**. This connects to an ownCloud server.
 
@@ -258,8 +258,8 @@ In ownCloud Web UI, you can create new users. User accounts possess the followin
 To create a new user account, complete the following steps.
 
 1. Provide a new login name and password to the user. Ensure the following points.
-   - The password is not blank.
-   - The login names can contain letters (a-z, A-Z), numbers (0 to 9), dashes, (-), underscores (_), periods (.) and symbols (@).
+  - The password is not blank.
+  - The login names can contain letters (a-z, A-Z), numbers (0 to 9), dashes, (-), underscores (_), periods (.) and symbols (@).
 2. Optional. Create Group memberships.
 3. Click **Create**.
 
