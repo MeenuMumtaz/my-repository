@@ -96,7 +96,6 @@ To log in to ownCloud, complete the following steps.
 2. Enter the admin credentials that you have stored in the environment file previously.
 
 ## Install ownCloud manually ##
-<a name="g"></a>Install ownCloud manually
 
 To install ownCloud manually, complete the following steps.
 
