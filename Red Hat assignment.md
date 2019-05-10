@@ -66,16 +66,13 @@ You must fulfill the following software and hardware requirements before you ins
 
 You can install ownCloud using one of the following options. These options are explained in the document.
 
-[Install ownCloud using Docker](#Install_ownCloud_using_Docker)
-<a name="Install_ownCloud_using_Docker"></a>Install ownCloud using Docker
-
 - Install ownCloud using Docker
 - Install ownCloud manually
 - Install ownCloud using Linux Package Manager
 - Install ownCloud using the Installation Wizard
 - Install ownCloud using Command Line
 
-## Install ownCloud using Docker ##
+## Install ownCloud using Docker ## 
 
 You can install ownCloud using [ownCloud Docker image](https://hub.docker.com/r/owncloud/server/). The configurations enable the HTTP connections through 8080 port and mounts the data and MYSQL data directories on the host system for efficient storage.
 
@@ -94,6 +91,7 @@ To log in to ownCloud, complete the following steps.
 2. Enter the admin credentials that you have stored in the environment file previously.
 
 ## Install ownCloud manually ##
+<a name="g"></a>Install ownCloud manually
 
 To install ownCloud manually, complete the following steps.
 
