@@ -85,7 +85,7 @@ Before you install ownCloud, install the following packages.
 
 To download the current version of ownCloud, complete the following steps.
 
-1. In the **ownCloud Download** page, navigate to **Download ownCloud Server>Download>Archive file** and dforownload either the tar.bz2 or .zip archive.
+1. In the **ownCloud Download** page, navigate to **Download ownCloud Server>Download>Archive file** and download either the tar.bz2 or .zip archive.
 2. For the owncloud-x.y.z.tar.bz2 or owncloud-x.y.z.zip (where x.y.z is the version number) files, download the corresponding checksum files. For example, owncloud-x.y.z.tar.bz2.md5, or owncloud-x.y.z.tar.bz2.sha256.
 3. Verify the MD5 or SHA256 sum or PGP signature.
 4. Run the following unpacking command to extract the contents of archive. Replace “/path/to/webserver/document-root” with the appropriate document root of the web server.
