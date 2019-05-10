@@ -91,7 +91,7 @@ To download the current version of ownCloud, complete the following steps.
 4. Run the following unpacking command to extract the contents of archive. Replace “/path/to/webserver/document-root” with the appropriate document root of the web server.
     `cp -r owncloud /path/to/webserver/document-root`.
 
-**Note**   For other HTTP servers, it is recommended that you install ownCloud outside the document root. 
+**Note**   For other HTTP servers, it is recommended that you install ownCloud outside the document root directory. 
 
 ### Configure Web Server ###
 
