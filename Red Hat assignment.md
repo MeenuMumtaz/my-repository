@@ -22,10 +22,10 @@
   - [Configure database on Linux](#configure-database-on-linux)
     - [Configure MYSQL/MariaDB](#configure-mysqlmariadb)
     - [Configure PostgreSQL database](#configure-postgresql-database)
-- [Configure the ownCloud Desktop client](#configure-the-owncloud-desktop-client)
+- [Configure the ownCloud Desktop Client](#configure-the-owncloud-desktop-client)
 - [ownCloud Mobile Apps](#owncloud-mobile-apps)
   - [ownCloud iOS and Android App](#owncloud-ios-and-android-app)
-- [Add a user account](#add-a-user-account)
+- [Add Users](#add-users)
 
 
 
@@ -253,7 +253,7 @@ Before you configure PostgreSQL database, ensure that you install and enable Pos
     pgsql.ignore_notice = 0
     pgsql.log_notice = 0
     
-# Configure the ownCloud Desktop client #
+# Configure the ownCloud Desktop Client #
 
 Desktop clients are available for installation on ownCloud website. They enable connection to ownCloud server through desktop. You can create files and folders located in your system and the changes are synchronized to the server. All the changes made are automatically synced to the server. 
 
@@ -282,7 +282,7 @@ To connect to ownCloud server through an iOS and Android App, complete the follo
 2. For Android, go to Google Play and install the ownCloud App. 
 3. Login to the server using your credentials.
 
-# Add a user account #
+# Add Users #
 
 In ownCloud Web UI, you can create new users. User accounts possess the following properties.
 
