@@ -145,7 +145,7 @@ To install ownCloud Enterprise edition, follow the instructions provided in the 
 
 ## Install ownCloud using the Installation Wizard ##
 
-If you choose to install ownCloud using the Installation Wizard, your access must be authorized with secure credentials.
+If you choose to install ownCloud using the Installation Wizard, you must authorize your access with secure credentials.
 
 Ensure that you follow the prerequisites for installation and download the required files before completing the installation using the Installation Wizard.
 
