@@ -66,6 +66,9 @@ You must fulfill the following software and hardware requirements before you ins
 
 You can install ownCloud using one of the following options. These options are explained in the document.
 
+[Install ownCloud using Docker](#Install_ownCloud_using_Docker)
+<a name="Install_ownCloud_using_Docker"></a>Install ownCloud using Docker
+
 - Install ownCloud using Docker
 - Install ownCloud manually
 - Install ownCloud using Linux Package Manager
