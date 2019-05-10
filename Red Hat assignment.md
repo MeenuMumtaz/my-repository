@@ -121,7 +121,7 @@ You can complete the installation by using one of the following options.
 - **Installation wizard**.  See the [Installation wizard document](https://doc.owncloud.org/server/10.1/admin_manual/installation/installation_wizard.html).
 - **Run the occ command under the command line**. See the [Command line installation document](https://doc.owncloud.org/server/10.1/admin_manual/installation/command_line_installation.html).
 
-## Install ownCloud using Linux Package Manager ##
+## I## Install ownCloud using Linux Package Manager ##nstall ownCloud using Linux Package Manager ##
 
 You can install ownCloud using Linux Package Managers for single-server setups. For Production environments, you must install from the [tar archive](https://owncloud.org/download/#owncloud-server-tar-ball). The owncloud-files package installs ownCloud only. It is recommended that you do not update the owncloud-files package automatically during system updates.
 
@@ -140,6 +140,10 @@ To install ownCloud Community Edition, complete the following steps.
 4. Run the Installation Wizard. See the [Installation wizard document](https://doc.owncloud.org/server/10.1/admin_manual/installation/installation_wizard.html).
 
 ### Install ownCloud Enterprise Edition ###
+
+To install ownCloud Enterprise edition, follow the instructions provided in the [Enterprise Installation Guide].
+
+## Install ownCloud using the Installation Wizard ##
 
 If you choose to install ownCloud using the Installation Wizard, your access must be authorized with secure credentials.
 
