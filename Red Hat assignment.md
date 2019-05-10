@@ -33,7 +33,7 @@ You must fulfill the following software and hardware requirements before you ins
 
 ## Installation overview ##
 
-You can install ownCloud using one of the following options.
+You can install ownCloud using one of the following options. These options are explained in the document.
 
 - Install ownCloud using Docker
 - Install ownCloud manually
