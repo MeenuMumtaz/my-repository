@@ -29,7 +29,7 @@
     - [Configure PostgreSQL database](#configure-postgresql-database)
 - [Configure the ownCloud Desktop Client](#configure-the-owncloud-desktop-client)
 - [ownCloud Mobile Apps](#owncloud-mobile-apps)
-  - [ownCloud iOS and Android App](#owncloud-ios-and-android-app)
+  - [ownCloud iOS and Android Apps](#owncloud-ios-and-android-apps)
 - [Add Users](#add-users)
 
 
@@ -280,7 +280,7 @@ To configure the desktop client, complete the following steps.
 
 You can connect ownCloud server and access files through a web interface. However, you can also access ownCloud through both iOS and Android mobile Apps. ownCloud for mobile provides you the ability to view and access your files and folders located on the ownCloud server. 
 
-## ownCloud iOS and Android App  ##
+## ownCloud iOS and Android Apps  ##
 
 To connect to ownCloud server through an iOS and Android App, complete the following steps.
 
