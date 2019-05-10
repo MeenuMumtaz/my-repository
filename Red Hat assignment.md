@@ -38,7 +38,7 @@ ownCloud provides you the ability to access and share your files and folders fro
 
 ## Prerequisites ##
 
-You must fulfill the following software and hardware requirements before you install ownCloud in your environment.
+Your system must meet the following software and hardware requirements before you install ownCloud in your environment.
 
 - Memory 
   - 128 MB RAM memory. For better performance, 512 MB RAM memory is recommended. 
@@ -56,7 +56,7 @@ You must fulfill the following software and hardware requirements before you ins
   - Apache 2.4 with prefork and mod_ph
 - Operating system
   - Ubuntu 16.04 and 18.04
-  - Debian 7, 8 and 9
+  - Debian 7, 8, and 9
   - SUSE Linux Enterprise Server 12 with SP1, SP2 and SP3
   - Red Hat Enterprise Linux/Centos 6.9, 7.3, 7.4, and 7.5
   - Fedora 27, 28 and 29
