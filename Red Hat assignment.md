@@ -141,7 +141,7 @@ To install ownCloud Community Edition, complete the following steps.
 
 ### Install ownCloud Enterprise Edition ###
 
-To install ownCloud Enterprise edition, follow the instructions provided in the [Enterprise Installation Guide].
+To install ownCloud Enterprise edition, follow the instructions provided in the [Enterprise Installation Guide](https://doc.owncloud.org/server/10.1/admin_manual/enterprise/installation/install.html).
 
 ## Install ownCloud using the Installation Wizard ##
 
