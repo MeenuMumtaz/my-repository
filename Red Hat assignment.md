@@ -258,8 +258,8 @@ In ownCloud Web UI, you can create new users. User accounts possess the followin
 To create a new user account, complete the following steps.
 
 1. Provide a new login name and password to the user. Ensure the following points.
-  - The password is not blank.
-  - The login names can contain letters (a-z, A-Z), numbers (0 to 9), dashes, (-), underscores (_), periods (.) and symbols (@).
+   - The password is not blank.
+   - The login names can contain letters (a-z, A-Z), numbers (0 to 9), dashes, (-), underscores (_), periods (.) and symbols (@).
 2. Optional. Create Group memberships.
 3. Click **Create**.
 
