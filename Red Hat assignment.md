@@ -223,7 +223,7 @@ Before you configure PostgreSQL database, ensure that you install and enable Pos
     
 # Configure the ownCloud Desktop client #
 
-Desktop Clients are available for installation on ownCloud website. They enable connection to ownCloud server through desktop. You can create files and folders on the desktop clients and the changes are synchronized to the server. All the changes made are automatically synced to the server. 
+Desktop clients are available for installation on ownCloud website. They enable connection to ownCloud server through desktop. You can create files and folders on the desktop clients and the changes are synchronized to the server. All the changes made are automatically synced to the server. 
 
 To configure the desktop client, complete the following steps.
 
