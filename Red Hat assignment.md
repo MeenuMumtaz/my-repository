@@ -132,11 +132,11 @@ To install ownCloud Community Edition, complete the following steps.
 1. Install the LAMP stack and follow the system requirements to see the recommended ownCloud platforms.
 2. Update package manager’s configuration.  The following configurations are available.
 3. Install ownCloud using the instructions provided on the Download page.Ubuntu 14.04 & 16.04.
-  - Debian 7 & 8
-  - RHEL 6 & 7
-  - CentOS 7.2 & 7.3
-  - SLES 11SP4 & 12SP2
-  - openSUSE Leap 42.2 & 42.3
+   - Debian 7 & 8
+   - RHEL 6 & 7
+   - CentOS 7.2 & 7.3
+   - SLES 11SP4 & 12SP2
+   - openSUSE Leap 42.2 & 42.3
 4. Run the Installation Wizard. See the [Installation wizard document](https://doc.owncloud.org/server/10.1/admin_manual/installation/installation_wizard.html).
 
 ### Install ownCloud Enterprise Edition ###
@@ -227,8 +227,8 @@ To configure the desktop client, complete the following steps.
 2. In the **ownCloud Connection Wizard** page, in the **Server Name** box, type the server address.
 3. Type your username and password and click **Next**.
 4. Select one of the options.
-  - **Sync everything from the server**. This syncs everything from the server.
-  - **Choose what to sync**.  This syncs only the desired files.
+   - **Sync everything from the server**. This syncs everything from the server.
+   - **Choose what to sync**.  This syncs only the desired files.
 5. Type the path of the local folder.
 6. Click **Connect** and **Finish**. This connects to an ownCloud server.
 
@@ -258,8 +258,8 @@ In ownCloud Web UI, you can create new users. User accounts possess the followin
 To create a new user account, complete the following steps.
 
 1. Provide a new login name and password to the user. Ensure the following points.
-  - The password is not blank.
-  - The login names can contain letters (a-z, A-Z), numbers (0 to 9), dashes, (-), underscores (_), periods (.) and symbols (@).
+   - The password is not blank.
+   - The login names can contain letters (a-z, A-Z), numbers (0 to 9), dashes, (-), underscores (_), periods (.) and symbols (@).
 2. Optional. Create Group memberships.
 3. Click **Create**.
 
