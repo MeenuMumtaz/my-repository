@@ -1,2 +1,2 @@
 # About the Document
-This document describes the installation and configuration of ownCloud Server.
+This document provides information on how to install and configure ownCloud Server.
