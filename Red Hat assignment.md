@@ -99,7 +99,7 @@ To configure the Web Server, complete the following steps.
 
 1. Configure Apache. Under /etc/apache2/sites-available, create an owncloud.conf file.
 2. Replace the directory and other file paths with the appropriate ones.
-3. Enable mod_rewrite module by running a2enmod rewrite. You can enable the following recommended modules by running the associated commands.
+3. Enable mod_rewrite module by running `a2enmod rewrite`. You can enable the following recommended modules by running the associated commands.
 
 ### Enable SSL ###
 
