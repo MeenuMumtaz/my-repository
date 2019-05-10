@@ -132,11 +132,11 @@ To install ownCloud Community Edition, complete the following steps.
 1. Install the LAMP stack and follow the system requirements to see the recommended ownCloud platforms.
 2. Update package manager’s configuration.  The following configurations are available.
 3. Install ownCloud using the instructions provided on the Download page.Ubuntu 14.04 & 16.04.
-   - Debian 7 & 8
-   - RHEL 6 & 7
-   - CentOS 7.2 & 7.3
-   - SLES 11SP4 & 12SP2
-   - openSUSE Leap 42.2 & 42.3
+  - Debian 7 & 8
+  - RHEL 6 & 7
+  - CentOS 7.2 & 7.3
+  - SLES 11SP4 & 12SP2
+  - openSUSE Leap 42.2 & 42.3
 4. Run the Installation Wizard. See the [Installation wizard document](https://doc.owncloud.org/server/10.1/admin_manual/installation/installation_wizard.html).
 
 ### Install ownCloud Enterprise Edition ###
